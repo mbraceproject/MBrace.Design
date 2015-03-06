@@ -1,2 +1,3 @@
-# MBrace.Design
-Documentation on the MBrace design process
+## MBrace.Design
+
+MBrace design roadmap and issue tracking reposity. Contributions welcome.
