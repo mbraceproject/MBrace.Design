@@ -25,8 +25,10 @@ Function | Comment | F# | C# | PR | Status
 `fold` |   | o | n/a | --- | n/a
 `foldBy` |   | o | n/a | --- | n/a
 `groupBy`|   | ADD | ADD | -- | n/a
+`distinct`|   | ADD | ADD | -- | n/a
 `countBy`|   | o | o | -- | n/a
 `sortBy`|   | o | o | -- | n/a
+`sortByDescending`|   | o | o | -- | n/a
 `length`|   | o | o | -- | n/a
 `sum`|   | o | o | -- | n/a
 `sumBy`|   | o | o | -- | n/a
