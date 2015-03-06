@@ -28,7 +28,7 @@ Function | Comment | F# | C# | PR | Status
 `distinct`|   | ADD | ADD | -- | n/a
 `countBy`|   | o | o | -- | n/a
 `sortBy`|   | o | o | -- | n/a
-`sortByDescending`|   | o | o | -- | n/a
+`sortByDescending`|   | ADD | ADD | -- | n/a
 `length`|   | o | o | -- | n/a
 `sum`|   | o | o | -- | n/a
 `sumBy`|   | o | o | -- | n/a
