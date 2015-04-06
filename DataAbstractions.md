@@ -4,7 +4,7 @@
 Taken from [this discussion](https://github.com/mbraceproject/MBrace.Core/issues/55#issuecomment-90097067)
 
 
-| Cloud Type |  Underlying | Gives | Persisted | Caching | Partitioned | Input to CloudFlow | Ongoing Work |
+| Cloud Type |  Impl | Gives | Persist | Caching | Partition | Input to CloudFlow | Ongoing Work |
 | --------:|:-----------:|:------------:|:---------:|:---------:|:---------:|:-----:|:-----:|
 | `CloudFile` | `System.IO.Stream` | byte[]/lines/text | yes | ?? | (Seek - needs docs) | many | |
 | `CloudCell<'T>` | `System.IO.Stream` + deserializer for T | `'T`  | yes | off by default | no | no |
