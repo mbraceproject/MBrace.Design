@@ -1,5 +1,5 @@
 
-# Data abstractions in MBrace 
+# Persisted, Partitioned and Cached Data in MBrace 
 
 Taken from [this discussion](https://github.com/mbraceproject/MBrace.Core/issues/55#issuecomment-90097067)
 
