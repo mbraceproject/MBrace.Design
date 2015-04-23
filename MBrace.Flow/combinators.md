@@ -38,3 +38,6 @@ Function | Comment | F# | C# | PR | Status
 `tryPick`|   | o | o | -- | n/a
 `exists`|   | o | o | -- | n/a
 `forall`|   | o | o | -- | n/a
+`maxBy` |   | o | ADD | -- | n/a
+`minBy` |   | o | ADD | -- | n/a
+`reduce` |   | o | ADD | -- | n/a
