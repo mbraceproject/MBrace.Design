@@ -41,3 +41,4 @@ Function | Comment | F# | C# | PR | Status
 `maxBy` |   | o | ADD | -- | n/a
 `minBy` |   | o | ADD | -- | n/a
 `reduce` |   | o | ADD | -- | n/a
+`averageBy` |   | o | ADD | -- | n/a
