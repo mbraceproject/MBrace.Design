@@ -1,4 +1,4 @@
-## Overview of available and planned combinators for MBrace.Streams
+## Overview of available and planned combinators for MBrace.Flow
 
 ### Producers
 
