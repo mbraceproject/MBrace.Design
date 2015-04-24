@@ -42,3 +42,4 @@ Function | Comment | F# | C# | PR | Status
 `minBy` |   | o | ADD | -- | n/a
 `reduce` |   | o | ADD | -- | n/a
 `averageBy` |   | o | ADD | -- | n/a
+`average` |   | o | ADD | -- | n/a
