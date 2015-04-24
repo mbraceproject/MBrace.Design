@@ -43,3 +43,4 @@ Function | Comment | F# | C# | PR | Status
 `reduce` |   | o | ADD | -- | n/a
 `averageBy` |   | o | ADD | -- | n/a
 `average` |   | o | ADD | -- | n/a
+`groupBy` |   | o | ADD | -- | n/a
