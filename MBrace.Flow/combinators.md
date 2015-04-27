@@ -18,6 +18,7 @@ Function | Comment | F# | C# | PR | Status
 `collect`|   | o | o | -- | n/a
 `choose`|   | o | n/a | -- | n/a
 `distinctBy` |   | o | ADD | -- | n/a
+`distinct` |   | o | ADD | -- | n/a
 
 ### Consumers
 
