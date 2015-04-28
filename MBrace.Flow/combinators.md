@@ -19,6 +19,9 @@ Function | Comment | F# | C# | PR | Status
 `choose`|   | o | n/a | -- | n/a
 `distinctBy` |   | o | ADD | -- | n/a
 `distinct` |   | o | ADD | -- | n/a
+`groupBy` |   | o | ADD | -- | n/a
+`reduceBy` |   | o | ADD | -- | n/a
+
 
 ### Consumers
 
@@ -45,4 +48,4 @@ Function | Comment | F# | C# | PR | Status
 `reduce` |   | o | ADD | -- | n/a
 `averageBy` |   | o | ADD | -- | n/a
 `average` |   | o | ADD | -- | n/a
-`groupBy` |   | o | ADD | -- | n/a
+
