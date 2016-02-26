@@ -7,7 +7,7 @@
 
 
 | Cloud Type |   | 
-|:-----------|------------:|
+|:-----------|:------------|
 | `Cloud<T>` |  Represents a distributed cloud computation | 
 | `LocalCloud<T>` |  Represents a machine-constrained cloud computation. The computation runs to completion as a locally executing in-memory computation. The computation may access concurrent shared memory and unserializable resources. | 
 
@@ -18,7 +18,7 @@ Taken from [this discussion](https://github.com/mbraceproject/MBrace.Core/issues
 
 
 | Cloud Type            |  Underlying                         | Gives             | Persist | Caching    | Partition   | Indexed  | Mutable | Description           |
-|:---------------------|:-----------------------------------:|:-----------------:|:-------:|:----------:|:-----------:|:--------:|:-------:|:---------------------|
+|:---------------------|:------------------------------------|:------------------|:--------|:-----------|:------------|:---------|:--------|:---------------------|
 | `CloudFile`           | Blob store                          | byte[]/lines/text | yes     | no         | via seek    | via seek | no      | Files named by string |
 | `CloudValue<T>`       | `CloudFile` + deserializer for `T`   | `T`               | yes     | on default | single file | no       | no      | A distributed value that has been cached by the MBrace runtime  |
 | `CloudArray<T>`       | `CloudFile` + deserializer for `T`   | `T[]`             | yes     | no         | no          | no       | no      | A distributed, immutable array that has been cached by the MBrace runtime |
