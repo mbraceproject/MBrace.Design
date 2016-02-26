@@ -7,7 +7,7 @@
 
 
 | Cloud Type |   | 
-| --------:|:-----------:|
+|:-----------|:-----------:|
 | `Cloud<T>` |  Represents a distributed cloud computation | 
 | `LocalCloud<T>` |  Represents a machine-constrained cloud computation. The computation runs to completion as a locally executing in-memory computation. The computation may access concurrent shared memory and unserializable resources. | 
 
